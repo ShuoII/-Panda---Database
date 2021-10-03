@@ -1,1 +1,6 @@
-Test
+-- True ( Enable ) and False ( Disable )
+
+-- Enable / Disable Panda DLL Module --
+PandaModule=False
+PandaDownloadLink=https://www.youtube.com/watch?v=o-YBDTqX_ZU
+

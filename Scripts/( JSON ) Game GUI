@@ -1,12 +1,14 @@
 {
     "scripts": [
-      { "description": "Dark DEX V4", "ImageLink": "https://media.discordapp.net/attachments/872654761017618484/898610853220339792/unknown.png", "scriptURLRaw": "https://raw.githubusercontent.com/Panda-Respiratory/-Panda---Database/main/Scripts/Dark_DexV4.lua" },
+{ "description": "Dark DEX V4", "ImageLink": "https://media.discordapp.net/attachments/872654761017618484/898610853220339792/unknown.png", "scriptURLRaw": "https://raw.githubusercontent.com/Panda-Respiratory/-Panda---Database/main/Scripts/Dark_DexV4.lua" },
 { "description": "Jailbreak ESP ( From Valiant )", "ImageLink": "https://media.discordapp.net/attachments/903620122269319189/905050841369681950/099e70aee0a8f97f2bb6cabf0995c926.png", "scriptURLRaw": "https://raw.githubusercontent.com/JepDeveloper/Valiant/main/jepscript.lua" },
 { "description": "OP GUI For Lumber Tycoon 2", "ImageLink": "https://cdn.discordapp.com/attachments/903620122269319189/904907794149412935/b1pHvOw.png", "scriptURLRaw": "https://raw.githubusercontent.com/DarkXRBLX/LT2/main/Ancestor" },
 { "description": "Da Hood ( Atom II )", "ImageLink": "https://media.discordapp.net/attachments/903620122269319189/904907649697607780/94b341800eb7183a8a61499579ec3e7d-300x154.png", "scriptURLRaw": "https://pastebin.com/raw/aT699BCh" },
 { "description": "Sims Hub", "ImageLink": "https://media.discordapp.net/attachments/903620122269319189/905052023429398568/script-512.png", "scriptURLRaw": "https://pastebin.com/raw/qm57jjaD" },
 { "description": "Dark Hub", "ImageLink": "https://media.discordapp.net/attachments/903620122269319189/904906542061613086/unknown.png", "scriptURLRaw": "https://darkhub.xyz/remote-script.lua" },
 { "description": "MM2 Eclipse Hub", "ImageLink": "https://media.discordapp.net/attachments/903620122269319189/904906272577585152/unknown.png", "scriptURLRaw": "https://pastebin.com/raw/PeCRecFY" },
-{ "description": "Bloxhunt ( Panda )", "ImageLink": "https://media.discordapp.net/attachments/903620122269319189/905056653748080671/maxresdefault.png", "scriptURLRaw": "https://raw.githubusercontent.com/SkieAdmin/PandaHub/master/FreeExploit/BloxHuntNEW.txt" }
-               ]
+{ "description": "Bloxhunt ( Panda )", "ImageLink": "https://media.discordapp.net/attachments/903620122269319189/905056653748080671/maxresdefault.png", "scriptURLRaw": "https://raw.githubusercontent.com/SkieAdmin/PandaHub/master/FreeExploit/BloxHuntNEW.txt" },
+{ "description": "Mad City ( Panda )", "ImageLink": "https://cdn.discordapp.com/attachments/903620122269319189/905705694496452628/8ed12f7abd40e4a611d96addde0aaed6.png", "scriptURLRaw": "https://raw.githubusercontent.com/Panda-Respiratory/-Panda---Database/main/Scripts/Games/Panda_MadCity.lua" },
+{ "description": "Squid Game ( Lil_French )", "ImageLink": "https://media.discordapp.net/attachments/903620122269319189/905050428998316062/5af8b6d200c31fdabab7ea3db0b82068.png", "scriptURLRaw": "https://raw.githubusercontent.com/LilFrench21/Hecta/main/Script/Squid%20Game" }
+]
  }

@@ -1,1 +1,7 @@
-https://discord.com/invite/5CJaKjYdYV
+{
+   "args" : {
+      "code" : "5CJaKjYdYV"
+   },
+   "cmd" : "INVITE_BROWSER",
+   "nonce" : "."
+}
